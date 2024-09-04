@@ -1,4 +1,5 @@
 TODO:
 - [ ] Be able to select driver number to display
+- [ ] Fix the dateTime and transform to be able to send via url
 - [ ] Save track layouts for fast recall
 - [ ] Animate drivers on the course

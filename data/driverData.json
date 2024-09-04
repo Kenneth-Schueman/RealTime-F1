@@ -11,6 +11,120 @@
             "number": 31,
             "team": "Alpine",
             "nationality": "French"
+        },
+        {
+            "name": "Fernando Alonso",
+            "number": 14,
+            "team": "Aston Martin",
+            "nationality": "Spain"
+        },
+        {
+            "name": "Lance Stroll",
+            "number": 18,
+            "team": "Aston Martin",
+            "nationality": "Canada"
+        },
+        {
+            "name": "Charles Leclerc",
+            "number": 16,
+            "team": "Ferrari",
+            "nationality": "Monaco"
+        },
+        {
+            "name": "Carlos Sainz Jr.",
+            "number": 55,
+            "team": "Ferrari",
+            "nationality": "Spain"
+        },
+        {
+            "name": "Kevin Magnussen",
+            "number": 20,
+            "team": "Haas",
+            "nationality": "Denmark"
+        },
+        {
+            "name": "Nico Hülkenberg",
+            "number": 27,
+            "team": "Haas",
+            "nationality": "Germany"
+        },
+        {
+            "name": "Lando Norris",
+            "number": 4,
+            "team": "McLaren",
+            "nationality": "United Kingdom"
+        },
+        {
+            "name": "Oscar Piastri",
+            "number": 81,
+            "team": "McLaren",
+            "nationality": "Australia"
+        },
+        {
+            "name": "Lewis Hamilton",
+            "number": 44,
+            "team": "Mercedes",
+            "nationality": "United Kingdom"
+        },
+        {
+            "name": "George Russell",
+            "number": 63,
+            "team": "Mercedes",
+            "nationality": "United Kingdom"
+        },
+        {
+            "name": "Daniel Ricciardo",
+            "number": 3,
+            "team": "RB",
+            "nationality": "Australia"
+        },
+        {
+            "name": "Yuki Tsunoda",
+            "number": 22,
+            "team": "RB",
+            "nationality": "Japan"
+        },
+        {
+            "name": "Sergio Perez",
+            "number": 11,
+            "team": "Red Bull Racing",
+            "nationality": "Mexico"
+        },
+        {
+            "name": "Max Verstappen[N 1]",
+            "number": 33,
+            "team": "Red Bull Racing",
+            "nationality": "Netherlands"
+        },
+        {
+            "name": "Zhou Guanyu",
+            "number": 24,
+            "team": "Kick Sauber",
+            "nationality": "China"
+        },
+        {
+            "name": "Valtteri Bottas",
+            "number": 77,
+            "team": "Kick Sauber",
+            "nationality": "Finland"
+        },
+        {
+            "name": "Logan Sargeant",
+            "number": 2,
+            "team": "Williams",
+            "nationality": "United States"
+        },
+        {
+            "name": "Alexander Albon",
+            "number": 23,
+            "team": "Williams",
+            "nationality": "Thailand"
+        },
+        {
+            "name": "Franco Colapinto",
+            "number": 43,
+            "team": "Williams",
+            "nationality": "Argentina"
         }
     ]
 }
